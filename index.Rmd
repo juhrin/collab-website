@@ -2,7 +2,7 @@
 title: "collab-website"
 author: "Jessica Uhrin"
 date: "2023-02-07"
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
